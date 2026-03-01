@@ -1,0 +1,4 @@
+{
+  "model": "sub2api/gpt-5.2",
+  "prompt": "Extract structured fields from this payment voucher/invoice screenshot. Return ONLY strict JSON with keys: merchant_or_payee (string|null), amount (number|null), currency (string|null), datetime (string|null, format 'YYYY-MM-DD HH:MM:SS' if possible), type ('expense'|'refund'|null), confidence (0-1). If text is Chinese, keep merchant in Chinese. If datetime missing, null."
+}
