@@ -259,3 +259,10 @@ MIT
 **EN:** Issues and PRs welcome. If you encounter a voucher type that produces wrong results, please open an issue with an **anonymized** screenshot (blur or remove all personal information before uploading).
 
 **CN:** 欢迎提 Issue 和 PR。如果遇到识别错误的凭证类型，请提 Issue 并附上**已脱敏**的截图（上传前请遮盖或删除所有个人信息）。
+
+## Contributors / 贡献者
+
+- TT Tam
+- Lansun AI
+- 南瓜AI
+- 小男孩35
